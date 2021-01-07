@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1855f107374529040b904682f8adb1d1, type: 3}
   m_Name: Excel Settings
   m_EditorClassIdentifier: 
-  TemplatePath: QuickSheet/ExcelPlugin/Templates
+  TemplatePath: Scripts/Tables/Templates
   RuntimePath: 
   EditorPath: 
